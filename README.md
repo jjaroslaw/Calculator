@@ -1,4 +1,4 @@
-#Calculator
+Calculator
 =======================================================================
 Hi! I present you calculator written in Java. I hope, it would help you to implement its functions in your projects.
 
@@ -28,10 +28,11 @@ Calculator also has:
 - mouseover effect on buttons
 
 I have put special attention to design, so calculator looks modern and minimalist.
-#Author
+-------------------------------------------------------------------------------------------------------------------------
+Author
 ========================================================================
 - Jaroslaw Juszczak
-
-#Licence
+-------------------------------------------------------------------------------------------------------------------------
+Licence
 ========================================================================
 This project is licensed under the MIT License.
