@@ -1,4 +1,5 @@
 #Calculator
+=======================================================================
 Hi! I present you calculator written in Java. I hope, it would help you to implement its functions in your projects.
 
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/hSq4Pn/calc_image.jpg" alt="calc_image" border="0"></a>
@@ -28,7 +29,9 @@ Calculator also has:
 
 I have put special attention to design, so calculator looks modern and minimalist.
 #Author
+========================================================================
 - Jaroslaw Juszczak
 
 #Licence
+========================================================================
 This project is licensed under the MIT License.
